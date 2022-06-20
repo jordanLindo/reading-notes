@@ -1,2 +1,3 @@
 # readingnotes
-Reading notes
+
+Reading notes, a place for notes on daily readings.
