@@ -51,12 +51,12 @@ JavaScript allows a page to react
 - Font
 
 ## Scripts
-- Used script tags in the body of the HTML document to alter the page prior to dispalying it to the user
+- Used script tags in the body of the HTML document to alter the page prior to displaying it to the user
 - querySelector() grabs a chosen reference and stores it
 - textContent selects the textContent property
 - Variables in JavaScript can reference any object, and be changed repeatedly
 - Events can be attached to elements to trigger actions
-  - Such as swaping an image onclick
+  - Such as swapping an image onclick
 
 ## Getting Started
 1. Poem
@@ -88,4 +88,4 @@ it returns a page
 
 ## What is JavaScript?
 1. altering a page after it reaches the client and allowing the site to be reactive to a users action
-2. adding a script tag in the body will inculde it in the page
+2. adding a script tag in the body will include it in the page
