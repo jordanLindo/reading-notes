@@ -10,4 +10,4 @@ No notes available due to testing into 201
 
 ### [class-01 Notes](/class-01.md)
 
-### [class-02 Notes]{/class-02.md}
+### [class-02 Notes](/class-02.md)
