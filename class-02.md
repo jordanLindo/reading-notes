@@ -27,5 +27,5 @@ Advanced formatting adds a level of precision that otherwise isn't available
 
 1. condition, true
 2. first condition is false, and there are more potential condition for the block
-3. >, ===, !==
+3. <, ===, !==
 4. && requires the conditionals on both sides of it to be true, || only requires one of the conditions to evaluate to true
