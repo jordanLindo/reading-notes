@@ -15,3 +15,5 @@ No notes available due to testing into 201
 ### [class-03 Notes](/class-03.md)
 
 ### [class-04 Notes](/class-04.md)
+
+### [class-05 Notes](/class-05.md)
