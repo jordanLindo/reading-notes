@@ -16,4 +16,4 @@ Having a way to draw simple images allows us to do things like display data tren
 ## Easily Create Stunning Animates Charts
 
 1. Charts are an easy way to show information about a data set, like trends, or grouping data differently.
-2. A line chart may have better shown trends in the sales durning the day.
+2. A line chart may have better shown trends in the sales during the day.
