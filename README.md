@@ -1,4 +1,4 @@
-# readingnotes
+# reading-notes
 
 Reading notes, a place for notes on daily readings.
 
@@ -6,7 +6,7 @@ Reading notes, a place for notes on daily readings.
 
 No notes available due to testing into 201
 
-## Reading notes 201
+## Reading notes Code 201
 
 ### [class-01 Notes](/class-01.md)
 
@@ -37,3 +37,5 @@ No notes available due to testing into 201
 ### [class-14 Notes](/class-14.md)
 
 ### [class-14b Notes](/class-14b.md)
+
+## Code 301 - Intermediate Software Development
