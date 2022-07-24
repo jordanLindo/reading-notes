@@ -8,34 +8,36 @@ No notes available due to testing into 201
 
 ## Reading notes Code 201
 
-### [class-01 Notes](/class-01.md)
+### [201-class-01 Notes](/code201/class-01.md)
 
-### [class-02 Notes](/class-02.md)
+### [201-class-02 Notes](/code201/class-02.md)
 
-### [class-03 Notes](/class-03.md)
+### [201-class-03 Notes](/code201/class-03.md)
 
-### [class-04 Notes](/class-04.md)
+### [201-class-04 Notes](/code201/class-04.md)
 
-### [class-05 Notes](/class-05.md)
+### [201-class-05 Notes](/code201/class-05.md)
 
-### [class-06 Notes](/class-06.md)
+### [201-class-06 Notes](/code201/class-06.md)
 
-### [class-07 Notes](/class-07.md)
+### [201-class-07 Notes](/code201/class-07.md)
 
-### [class-08 Notes](/class-08.md)
+### [201-class-08 Notes](/code201/class-08.md)
 
-### [class-09 Notes](/class-09.md)
+### [201-class-09 Notes](/code201/class-09.md)
 
-### [class-10 Notes](/class-10.md)
+### [201-class-10 Notes](/code201/class-10.md)
 
-### [class-11 Notes](/class-11.md)
+### [201-class-11 Notes](/code201/class-11.md)
 
-### [class-12 Notes](/class-12.md)
+### [201-class-12 Notes](/code201/class-12.md)
 
-### [class-13 Notes](/class-13.md)
+### [201-class-13 Notes](/code201/class-13.md)
 
-### [class-14 Notes](/class-14.md)
+### [201-class-14 Notes](/code201/class-14.md)
 
-### [class-14b Notes](/class-14b.md)
+### [201-class-14b Notes](/code201/class-14b.md)
 
 ## Code 301 - Intermediate Software Development
+
+### [301-class-01 Notes](/code301/class-01.md)
