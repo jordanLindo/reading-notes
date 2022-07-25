@@ -41,3 +41,5 @@ No notes available due to testing into 201
 ## Code 301 - Intermediate Software Development
 
 ### [301-class-01 Notes](/code301/class-01.md)
+
+### [301-class-02 Notes](/code301/class-02.md)
