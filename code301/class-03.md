@@ -12,7 +12,7 @@ techniques for managing data increase the opportunities.
 ## Spread Operator
 
 1. '...' an operator that splits a lists elements to act as separate arguments.
-2. concatinating arrays, adding an item to a list, combining objects, converting NodeList to an array.
+2. concatenating arrays, adding an item to a list, combining objects, converting NodeList to an array.
 3. { const a = [1,2,3]; const b = [...a];const result = {...a,...b} === [1,2,3,1,2,3]
 4. { const a = [1,2,3]; const b = [4,5,6,...a];const result = {...a,...b} === [4,5,6,1,2,3]
 5. const objectOne = {hello: "🤪"}
