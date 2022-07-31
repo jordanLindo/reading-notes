@@ -1,6 +1,6 @@
 # Reading Notes class-05
 
-
+Using documentation to understand the path of your data is useful.
 
 # React Docs - Thinking in React
 
