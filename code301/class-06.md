@@ -1,4 +1,4 @@
-# Reading notes class-05
+# Reading notes class-06
 
 Understanding common tools has it's benefits.
 
