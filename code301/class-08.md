@@ -4,7 +4,7 @@ Using best practices will ease the changes that need to be made in the future.
 
 ## API Design Best Practices
 
-1. REpresentational State Transfer
+1. <ins>Re</ins>presentational <ins>S</ins>tate <ins>T</ins>ransfer
 2. REST APIs are designed around resources - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 3. A resource has an identifier, a unique  URI
 4. GET, POST, PUT, PATCH, DELETE
