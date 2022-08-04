@@ -55,3 +55,5 @@ No notes available due to testing into 201
 ### [301-class-07 Notes](/code301/class-07.md)
 
 ### [301-class-08 Notes](/code301/class-08.md)
+
+### [301-class-09 Notes](/code301/class-09.md)
