@@ -1,6 +1,6 @@
 # Reading notes class-10
 
-
+Understanding errors and their causes can show the changes that need to be made to fix them.
 
 ## Understanding the JavaScript Call Stack
 
