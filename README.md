@@ -61,3 +61,5 @@ No notes available due to testing into 201
 ### [301-class-10 Notes](/code301/class-10.md)
 
 ### [301-class-11 Notes](/code301/class-11.md)
+
+### [301-class-12 Notes](/code301/class-12.md)
